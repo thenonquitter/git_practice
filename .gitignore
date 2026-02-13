@@ -1,0 +1,4 @@
+config.py
+dist/
+secrets.*
+.DS_Store
